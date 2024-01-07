@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Abubakar G. Saleh from Bauchi, Nigeria
-- 👀 I’m interested in AI, Machine Learning, & IT Support
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on research papers, AI & Machine Learning projects
-- 📫 How to reach me ...
+Hi 👋 My name is Abubakar G. Saleh
+==================================
 
-<!---
-agsaleh/agsaleh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT Specialist | Data Science & Machine Learning enthusiast
+----------------------------------------------------------
+
+I'm presently a Fellow with the Arewa Data Science Academy where I'm trying to hone my skills in Data Science and Machine Learning. I'm also a certified Google IT Support Specialist and certified in Huawei's Cloud Computing and Security.
+
+*   🌍  I'm based in Bauchi
+*   ✉️  You can contact me at [ag.saleh@yahoo.com](mailto:ag.saleh@yahoo.com)
+*   🧠  I'm learning Data Science, Machine Learning
+*   🤝  I'm open to collaborating on Data Science and Machine Learning projects.### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
